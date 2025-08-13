@@ -3,5 +3,6 @@
   "title": "OLED Saver Service",
   "appDescription": "Service to turn off OLED screen.",
   "version": "1.0.0",
-  "ipkUrl": "https://raw.githubusercontent.com//HeQu11/oled-saver-repo/raw/refs/heads/main/com.oledsaver.service_1.0.0_all.ipk"
+  "ipkUrl": "https://github.com/HeQu11/oled-saver-repo/raw/refs/heads/main/com.oledsaver.service_1.0.0_all.ipk"
+
 }
