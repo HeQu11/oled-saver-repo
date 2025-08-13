@@ -1,0 +1,9 @@
+[
+  {
+    "title": "OLED Saver Service",
+    "iconUri": "https://raw.githubusercontent.com/<TWOJA_NAZWA>/<NAZWA_REPO>/main/icon.png",
+    "manifestUrl": "https://raw.githubusercontent.com/<TWOJA_NAZWA>/<NAZWA_REPO>/main/manifest.json",
+    "category": "utility",
+    "description": "A service that allows you to turn off your TV screen by pressing '0' on the remote, to save the OLED panel."
+  }
+]
